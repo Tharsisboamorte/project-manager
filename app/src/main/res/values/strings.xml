@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project Manager</string>
+    <string name="home_screen_route">Home</string>
+    <string name="payment_screen_route">Payment</string>
+    <string name="add_screen_route">Add Task </string>
+    <string name="task_screen_route">My tasks</string>
+    <string name="profile_screen_route">Profile</string>
+    <string name="schedule_projects">Lets schedule your \n projects</string>
+</resources>
